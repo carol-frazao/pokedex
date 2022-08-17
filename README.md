@@ -1,4 +1,5 @@
 # pokedex
-Treino API com PokéAPI
+
+Estudo API com PokéAPI
 
 Aplicação: https://carol-frazao.github.io/pokedex/

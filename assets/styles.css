@@ -27,10 +27,10 @@ main {
 
 .pokemon_image {
     position: absolute;
-    width: 21%;
-    max-width: 21%;
+    width: 20%;
+    max-width: 20%;
     left: 36%;
-    top: 34%;
+    top: 33%;
 }
 
 .pokemon_data {
@@ -39,7 +39,7 @@ main {
     color: #aaa;
     top: 52%;
     right: 30%;
-    font-size: clamp(8px, 5vw, 25px);
+    font-size: clamp(8px, 5vw, 21px);
 }
 
 .pokemon_name {

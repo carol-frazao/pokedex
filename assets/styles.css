@@ -94,10 +94,9 @@ input {
 }
 
 .credits {
-    text-align: center;
-    font-size: clamp(8px, 5vw, 17px);
+    font-size: clamp(8px, 5vw, 15px);
     color: #222;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .credits strong {
